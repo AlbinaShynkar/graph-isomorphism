@@ -1,6 +1,7 @@
 # graph-isomorphism
 This is the project of module 7 "Algorithmic structures and efficient algorithms" developed on Python.
 Project requires to create an efficient algorithm which solves symmetry and graph isomorphism problem.
+The project is done in groups of two people. It was developed by me and my fellow student.
 
 The focus of the project is on practical implementations of algorithms for the notorious
 graph isomorphism problem, a problem that is still open with respect to its computa-
